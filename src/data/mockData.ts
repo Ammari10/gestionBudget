@@ -154,6 +154,19 @@ export const contractors: Contractor[] = [
     weeklyHourLimit: 45,
     photo: "https://randomuser.me/api/portraits/women/8.jpg",
     status: "warning"
+  },
+  {
+    id: 8,
+    name: "mouad",
+    agency: "InfoSys Consulting",
+    role: "Cheffe de Projet",
+    department: "PMO",
+    startDate: "2023-04-10",
+    badgeId: "CT00130",
+    hourlyRate: 380,
+    weeklyHourLimit: 45,
+    photo: "https://randomuser.me/api/portraits/women/8.jpg",
+    status: "warning"
   }
 ];
 
